@@ -53,5 +53,5 @@
           .openOn(map);
         map.setView(data.results[0].latlng)
       }
-    })
+    });
   
